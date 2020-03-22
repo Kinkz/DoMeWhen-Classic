@@ -26,6 +26,7 @@ Spells.WARLOCK = {
         CurseOfTheElements = {Ranks = {1490, 11721, 11722}},
         DarkPact = {Ranks = {18220, 18937, 18938}},
         DeathCoil = {Ranks = {6789, 17925, 17926}},
+        DemonicSac = {Ranks = {18788}},
         DemonArmor = {Ranks = {706, 1086, 11733, 11734, 11735}},
         DemonSkin = {Ranks = {687, 696}},
         DetectLesserInvisibility = {Ranks = {132}},
@@ -34,6 +35,7 @@ Spells.WARLOCK = {
         DrainSoul = {Ranks = {1120, 8288, 8289, 11675}},
         EnslaveDemon = {Ranks = {1098, 11725, 11726}},
         Fear = {Ranks = {5782, 6213, 6215}},
+        FelDomination = {Ranks = {18708}},
         HealthFunnel = {Ranks = {755, 3698, 3699, 3700, 11693, 11694, 11695}},
         Hellfire = {Ranks = {1949, 11683, 11684}},
         HowlOfTerror = {Ranks = {5484, 17928}},
@@ -61,7 +63,8 @@ Spells.WARLOCK = {
         DemonSkin = {Ranks = {687, 696}},
         Nightfall = {Ranks = {18094, 18095}},
         ShadowTrance = {Ranks = {17941}},
-        ShadowWard = {Ranks = {6229, 11739, 11740, 28610}}
+        ShadowWard = {Ranks = {6229, 11739, 11740, 28610}},
+        DemonSac = {Ranks = {18790, 18791, 18792, 18789}}
     },
     Debuffs = {
         Banish = {Ranks = {710, 18647}},
