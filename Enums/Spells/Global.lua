@@ -10,6 +10,10 @@ DMW.Enums.Spells = {
             BerserkingTroll = {Ranks = {20554}},
             WillofTheForsaken = {Ranks = {7744}},
             WarStomp = {Ranks = {20549}},
+            EscapeArtist = {Ranks = {20589}},
+            Perception = {Ranks = {20600}},
+            
+
             --Professions, multiple ID's shouldn't matter, just for tracking casts
             Mining = {Ranks = {2575}, CastType = "Profession"},
             HerbGathering = {Ranks = {2366}, CastType = "Profession"},
